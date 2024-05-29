@@ -390,6 +390,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controlador\ctrlLogin.cs" />
+    <Compile Include="Modelo\Cita.cs" />
+    <Compile Include="Modelo\mtoCita.cs" />
     <Compile Include="Modelo\mtoUsuario.cs" />
     <Compile Include="Modelo\Usuario.cs" />
     <Compile Include="Vista\CitasActivas.aspx.cs">
