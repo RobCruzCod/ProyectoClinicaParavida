@@ -7,5 +7,6 @@ namespace ProyectoClinicaParavida.Modelo
 {
     public class mtoCita
     {
+        //Aqui iran los campos de la tabla. 
     }
 }
