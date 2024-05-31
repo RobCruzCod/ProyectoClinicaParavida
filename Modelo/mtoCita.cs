@@ -10,5 +10,7 @@ namespace ProyectoClinicaParavida.Modelo
         //Aqui iran los campos de la tabla. 
         //.................................
         //
+        //Todavia no estan los campos
+
     }
 }
