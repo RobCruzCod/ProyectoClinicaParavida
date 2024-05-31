@@ -7,7 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Data.Entity.Core.Common.CommandTrees.ExpressionBuilder;
 using System.Security.Claims;
-//Agregamos librerias a usar
+
 namespace ProyectoClinicaParavida.Models
 {
     public class mtoUsuario
