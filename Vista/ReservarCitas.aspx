@@ -43,13 +43,13 @@
                             <div align="center" style="margin-bottom: 10px;">
                                 <h6>Nombre del paciente:</h6>
                                 <div class="input-group" style="max-width: 350px;">
-                                    <asp:TextBox ID="TextNombre" runat="server" CssClass="form-control" Width="200px" placeholder="Nombre Completo..." ReadOnly="True"></asp:TextBox>
+                                    <asp:TextBox ID="TextNombre" runat="server" CssClass="form-control" Width="200px" placeholder="Nombre Completo..." ReadOnly="False"></asp:TextBox>
                                 </div>
                             </div>
                             <div align="center" style="margin-bottom: 10px;">
                                 <h6>DUI del paciente:</h6>
                                 <div class="input-group" style="max-width: 350px;">
-                                    <asp:TextBox ID="TextDui" runat="server" CssClass="form-control" Width="200px" placeholder="DUI del paciente..." ReadOnly="True"></asp:TextBox>
+                                    <asp:TextBox ID="TextDui" runat="server" CssClass="form-control" Width="200px" placeholder="DUI del paciente..." ReadOnly="False"></asp:TextBox>
                                 </div>
                             </div>
 
