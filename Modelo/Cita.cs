@@ -7,6 +7,6 @@ namespace ProyectoClinicaParavida.Modelo
 {
     public class Cita
     {
-
+        //comentario
     }
 }
